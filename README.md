@@ -17,7 +17,7 @@ Designed to work with Elementor triggers (or any element with `.EC-help-form-pop
 2. Use the shortcode inside the modal:
    ```php
    [gravityform id="1" ajax="true" title="false" description="false"]
-3. the selector <pre> ```html <a href="#" class="EC-help-form-popup">Open Help Form</a> ``` </pre>
+3. the selector <pre> ``` <a href="#" class="EC-help-form-popup">Open Help Form</a> ``` </pre>
 
 
 
